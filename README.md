@@ -1,5 +1,18 @@
 # DS-team-roadmap
+
 ![roadmap](files/roadmap.png)
+
+- Joel's test of DS maturity:
+
+<img src="files/DS-maturity.png" alt="maturity" width="600" height="300">
+
+- Responsibility assignment matrix:
+
+<img src="files/RACI.png" alt="RACI" width="700" height="300">
+
+- Team-customer connection:
+
+<img src="files/team-customer-connection.png" alt="team-customer-connection" width="400" height="250">
 
 # Ds team
 ## Организация кода
