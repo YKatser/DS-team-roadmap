@@ -23,7 +23,11 @@
     Структура репозитория для унификации и прозрачности работы для всех участников команды.
     
 #### Ссылки
-    https://github.com/dssg/hitchhikers-guide/tree/master/sources/curriculum/0_before_you_start/pipelines-and-project-workflow
+Надо выбрать: 
+- [hitchhikers-guide by Data Science for Social Good](https://github.com/dssg/hitchhikers-guide/tree/master/sources/curriculum/0_before_you_start/pipelines-and-project-workflow)
+- [The Data Science Lifecycle Process](https://github.com/dslp/dslp-repo-template)
+- [cookiecutter-data-science by drivendata](https://github.com/drivendata/cookiecutter-data-science), [blog](https://drivendata.github.io/cookiecutter-data-science/)
+- [GPN](https://github.com/gazprom-neft/standards/tree/master/template_project/template)
 
 ### Environment (requirements)
 #### Описание
