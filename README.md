@@ -14,6 +14,7 @@
 
 <img src="files/team-customer-connection.png" alt="team-customer-connection" width="400" height="250">
 
+- [Team Data Science Process (TDSP)](https://docs.microsoft.com/ru-ru/azure/machine-learning/team-data-science-process/lifecycle-data)
 # Ds team
 ## Организация кода
     Система организации кода и связанной с ним технической части проекта.
