@@ -43,7 +43,8 @@
     Единый стандарт написания кода.
     
 #### Ссылки
-    https://www.python.org/dev/peps/pep-0008/
+    https://pep8.org
+    https://gist.github.com/RichardBronosky/454964087739a449da04 - pep8 cheat sheet (short)
 
 ### Code review
 #### Описание
