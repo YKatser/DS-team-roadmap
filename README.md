@@ -15,6 +15,16 @@
 <img src="files/team-customer-connection.png" alt="team-customer-connection" width="400" height="250">
 
 - [Team Data Science Process (TDSP)](https://docs.microsoft.com/ru-ru/azure/machine-learning/team-data-science-process/lifecycle-data)
+
+## Как мы проверяем и оцениваем гипотезы в YouDo, Адам Елдаров, Head of Product and Data Science
+https://www.youtube.com/watch?v=jmjzSor1WDU
+
+2019
+```
+- Как строить DS процессы и команду в условиях растущего и быстро меняющегося бизнеса при сильно ограниченных ресурсах.
+- Поговорим про то, как организовать DS в компании, какие варианты построения команд есть, как фокусировать команду на самом важном, проверять гипотезы и как оценивать их эффективность для бизнеса.
+```
+
 # Ds team
 ## Организация кода
     Система организации кода и связанной с ним технической части проекта.
