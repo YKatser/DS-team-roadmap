@@ -15,10 +15,7 @@ https://www.youtube.com/watch?v=jmjzSor1WDU
 Структура репозитория для унификации, прозрачности работы и упрощения переключения между проектами для всех участников команды и сотрудников компании.
 
 #### Ссылки
-- [hitchhikers-guide by Data Science for Social Good](https://github.com/dssg/hitchhikers-guide/tree/master/sources/curriculum/0_before_you_start/pipelines-and-project-workflow)
-- [The Data Science Lifecycle Process](https://github.com/dslp/dslp-repo-template)
-- [cookiecutter-data-science by drivendata](https://github.com/drivendata/cookiecutter-data-science), [blog](https://drivendata.github.io/cookiecutter-data-science/)
-- [GPN](https://github.com/gazprom-neft/standards/tree/master/template_project/template)
+>https://github.com/YKatser/ml-project-template
 
 ### Environment (requirements)
 #### Описание
@@ -41,9 +38,9 @@ https://www.youtube.com/watch?v=jmjzSor1WDU
 Проверка исходного кода на ошибки, проблемы постановки эксперимента.
 
 #### Ссылки
->https://tlroadmap.io/roles/technical-lead/product-quality/code-review.html
->https://mtlynch.io/human-code-reviews-1/
->https://mtlynch.io/human-code-reviews-2/
+>https://tlroadmap.io/roles/technical-lead/product-quality/code-review.html  
+>https://mtlynch.io/human-code-reviews-1/  
+>https://mtlynch.io/human-code-reviews-2/  
 >https://youtu.be/2F6J82-Ch88
 
 ### Internal reporting (automized in Python)
