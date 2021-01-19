@@ -39,9 +39,12 @@ https://www.youtube.com/watch?v=jmjzSor1WDU
 ### Code review
 #### Описание
 Проверка исходного кода на ошибки, проблемы постановки эксперимента.
-    
+
 #### Ссылки
 >https://tlroadmap.io/roles/technical-lead/product-quality/code-review.html
+>https://mtlynch.io/human-code-reviews-1/
+>https://mtlynch.io/human-code-reviews-2/
+>https://youtu.be/2F6J82-Ch88
 
 ### Internal reporting (automized in Python)
 #### Описание
