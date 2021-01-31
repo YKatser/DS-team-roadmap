@@ -34,7 +34,8 @@ https://www.youtube.com/watch?v=jmjzSor1WDU
 <img src="files/git workflow.jpg" alt="git workflow" width="600" height="300">
 
 #### Ссылки
->https://github.com/dslp/dslp/blob/main/branching/branch-types.md#experiment-branches
+>https://github.com/dslp/dslp/blob/main/branching/branch-types.md#experiment-branches  
+>[Курс MLRepa](https://ml-repa.ru/reproducibility-pipelines-automation-mlops)
 
 ### Environment Managing
 #### Описание
@@ -43,7 +44,7 @@ https://www.youtube.com/watch?v=jmjzSor1WDU
 Можно как использовать виртуальное окружение (приоритетный вариант), так и работать с ноутбуками в контейнере.
 
 #### Ссылки
->[Creating Virtual Environments and Managing Packages with pip](https://docs.python.org/3/tutorial/venv.html)
+>[Creating Virtual Environments and Managing Packages with pip](https://docs.python.org/3/tutorial/venv.html)  
 >[Add Virtual Environment to Jupyter Notebook/Juplab](https://janakiev.com/blog/jupyter-virtual-envs/)
 
 ### Pep8
@@ -124,6 +125,17 @@ Team lead - связь между продукт менеджером/проду
 ## Управление проектом
 Система организации проектной деятельности.
 
+### Проработка проекта в начале
+- AI canvas
+
+<img src="files/ai canvas.png" alt="ai canvas" width="600" height="300">
+
+- Check list
+
+<img src="files/check list.png" alt="check list" width="600" height="300">
+
+- customer journey map
+
 ### Взаимодействие членов команды
 #### Описание
 Планируемые встречи (взаимодействие команды): 
@@ -174,5 +186,3 @@ Performance review - это инструмент измерения эффект
     
 #### Ссылки
 >https://youtu.be/c0CRiCeJ99s
-    
-
