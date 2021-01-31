@@ -127,6 +127,8 @@ Team lead - связь между продукт менеджером/проду
 
 ### Проработка проекта в начале
 - AI canvas
+>[Как мы используем AI Канвас в БигДате МТС, Мария Ракитина, менеджер продуктов МТС](https://www.youtube.com/watch?v=frtCsg8tPp4)  
+>[The Ultimate AI Canvas](https://www.youtube.com/watch?v=hTR66u0i1Qo)
 
 <img src="files/ai canvas.png" alt="ai canvas" width="600" height="300">
 
