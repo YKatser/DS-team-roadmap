@@ -6,8 +6,12 @@
 https://www.youtube.com/watch?v=jmjzSor1WDU
 >Как организовать DS в компании, какие варианты построения команд есть, как фокусировать команду на самом важном, проверять гипотезы и как оценивать их эффективность для бизнеса.
 
-## Разделение команд
+## Типы команд
 <img src="files/teams.png" alt="teams" width="600" height="300">
+
+- Ad-hoc
+- Product
+- Support
 
 ## Организация кода
 Система организации кода и связанной с ним технической части проекта.  
@@ -20,13 +24,25 @@ https://www.youtube.com/watch?v=jmjzSor1WDU
 #### Ссылки
 >https://github.com/YKatser/ml-project-template
 
-### Environment (requirements)
+### Git Workflow
 #### Описание
+1. Для каждого изменения в мастер или при проверке очередной гипотезы создается отдельная ветка, в которой эти изменения вносятся и гипотезы проверяются. В случае успеха отправляется pull request для дальнейшего рассмотрения и возможного мерджа с мастером.
+2. Code review и hypothesis check review проводятся на этапе отправки pull request, и при успешном review ветка мерджится с мастером.
+3. Каждая ветка предназначена для одной гипотезы, небольших (не более 3х человекодней работы) изменений и соответствует тикету в jira. Поэтому название ветки рекомендуется брать из названия карточки в jira.
+4. При подготовке pull request НЕОБХОДИМО писать комментарий с кратким описанием изменений, при проверке гипотез можно дополнительно добавлять ридми, где отображать метрики/графики ([пример](https://www.youtube.com/watch?v=9BgIDqAzfuA)).
+
+#### Ссылки
+>https://github.com/dslp/dslp/blob/main/branching/branch-types.md#experiment-branches
+
+### Environment Managing
+#### Описание
+Для обеспечения воспроизводимости важно использовать requirements.txt, инициализируя файл в самом начале проекта.
 Управление зависимостями помогает управлять всеми библиотеками, необходимыми для работы приложения.
 Можно как использовать виртуальное окружение (приоритетный вариант), так и работать с ноутбуками в контейнере.
 
 #### Ссылки
->https://medium.com/python-pandemonium/better-python-dependency-and-package-management-b5d8ea29dff1
+>[Creating Virtual Environments and Managing Packages with pip](https://docs.python.org/3/tutorial/venv.html)
+>[Add Virtual Environment to Jupyter Notebook/Juplab](https://janakiev.com/blog/jupyter-virtual-envs/)
 
 ### Pep8
 #### Описание
