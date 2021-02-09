@@ -31,7 +31,9 @@ https://www.youtube.com/watch?v=jmjzSor1WDU
 3. Каждая ветка предназначена для одной гипотезы, небольших (не более 3х человекодней работы) изменений и соответствует тикету в jira. Поэтому название ветки рекомендуется брать из названия карточки в jira.
 4. При подготовке pull request НЕОБХОДИМО писать комментарий с кратким описанием изменений, при проверке гипотез можно дополнительно добавлять ридми, где отображать метрики/графики ([пример](https://www.youtube.com/watch?v=9BgIDqAzfuA)).
 
-<img src="files/git workflow.jpg" alt="git workflow" width="600" height="300">
+<img src="files/git workflow1.png" alt="git workflow1" width="600" height="140">
+
+<img src="files/git workflow.jpg" alt="git workflow" width="600" height="350">
 
 #### Ссылки
 >https://github.com/dslp/dslp/blob/main/branching/branch-types.md#experiment-branches  
