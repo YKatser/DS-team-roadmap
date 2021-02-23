@@ -120,9 +120,11 @@ Team lead - связь между продукт менеджером/проду
 >Team lead roadmap – это карта навыков и компетенций тимлидов, которую можно адаптировать для любой компании и команды:  
 >https://github.com/tlbootcamp/tlroadmap
 
-### Data scientists
+### Data scientist
 #### Описание
-<img src="files/ds-process.png" alt="ds-process" width="600" height="300">
+Процесс работы DS выглядит следующим образом:
+
+<img src="files/ds-process.png" alt="ds-process" width="800" height="400">
 
 ### Developers
 
@@ -140,7 +142,7 @@ Team lead - связь между продукт менеджером/проду
 
 <img src="files/check list.png" alt="check list" width="600" height="300">
 
-- customer journey map
+- Customer journey map
 
 ### Взаимодействие членов команды
 #### Описание
