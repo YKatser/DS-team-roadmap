@@ -121,6 +121,8 @@ Team lead - связь между продукт менеджером/проду
 >https://github.com/tlbootcamp/tlroadmap
 
 ### Data scientists
+#### Описание
+<img src="files/ds-process.png" alt="ds-process" width="600" height="300">
 
 ### Developers
 
@@ -186,7 +188,11 @@ Performance review - это инструмент измерения эффект
 
 ### Team
 #### Описание
-Оценка эффективности команды. Можно через ttm и другие продуктовые метрики.
+Оценка эффективности команды/отдельных исполнителей.
+- Время проверки гипотез
+- Можно через TTM (Time-To-Market) и другие продуктовые метрики
+- выполнение плана
     
 #### Ссылки
->https://youtu.be/c0CRiCeJ99s
+>https://youtu.be/c0CRiCeJ99s  
+>https://www.datascience-pm.com/9-ways-to-measure-data-science-project-performance/
