@@ -159,6 +159,7 @@ Team lead - связь между продукт менеджером/проду
     
 #### Ссылки
 >[Team Data Science Process (TDSP)](https://docs.microsoft.com/ru-ru/azure/machine-learning/team-data-science-process/lifecycle-data)  
+>[CRISP-DM](https://www.the-modeling-agency.com/crisp-dm.pdf)  
 >https://youtu.be/HJML5Ghz-hk
 
 ### Организация канбан доски
