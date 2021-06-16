@@ -144,6 +144,9 @@ Team lead - связь между продукт менеджером/проду
 
 - Customer journey map
 
+- Dataset Card (Паспорт датасета)
+>[MLOps: жизненный цикл ML-моделей от идеи до продакшна](https://youtu.be/uQ--wxaxzSk?t=1035)
+
 ### Взаимодействие членов команды
 #### Описание
 Планируемые встречи (взаимодействие команды): 
@@ -151,7 +154,10 @@ Team lead - связь между продукт менеджером/проду
 - Стендапы - для обеспечения прозрачности и выявления рисков/проблем (ежедневно, через день)
 - Ретроспективы (ретро) - для настройки процесса и понимания слабых мест (раз в 2 недели)
 
+Для сложных гипотез/проектов "Парный Data Science"
+
 #### Ссылки
+>[Парный Data Science](https://www.youtube.com/watch?v=n1aurzZajJk)  
 
 ### Организация проекта
 #### Описание
@@ -160,7 +166,8 @@ Team lead - связь между продукт менеджером/проду
 #### Ссылки
 >[Team Data Science Process (TDSP)](https://docs.microsoft.com/ru-ru/azure/machine-learning/team-data-science-process/lifecycle-data)  
 >[CRISP-DM](https://www.the-modeling-agency.com/crisp-dm.pdf)  
->https://youtu.be/HJML5Ghz-hk
+>[Lean Data Science 1.0 (SOTA)](https://www.youtube.com/watch?v=GAZ6EDjEDF0)
+>[LeanDS](https://leands.ai/ru)
 
 ### Организация канбан доски
 #### Описание
