@@ -226,13 +226,14 @@ Team lead - связь между продукт менеджером/проду
 <a name="project-organizing"></a>
 ### 5.3 Организация проекта
 #### Описание
-Система, описывающая все процессы взаимодействия с внешними и внутренними лицами и исполнителями.
+Система (фреймворк), описывающая все процессы взаимодействия с внешними и внутренними лицами и исполнителями и тд.
     
 #### Ссылки
 >[Team Data Science Process (TDSP)](https://docs.microsoft.com/ru-ru/azure/machine-learning/team-data-science-process/lifecycle-data)  
 >[CRISP-DM](https://www.the-modeling-agency.com/crisp-dm.pdf)  
 >[Lean Data Science 1.0 (SOTA)](https://www.youtube.com/watch?v=GAZ6EDjEDF0)
 >[LeanDS](https://leands.ai/ru)
+>[QUEST framework](https://www.youtube.com/watch?v=rPisw2KNsC0)
 
 <a name="project-kanban"></a>
 ### 5.4 Организация канбан доски
