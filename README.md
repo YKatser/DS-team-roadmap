@@ -53,6 +53,7 @@ https://www.youtube.com/watch?v=jmjzSor1WDU
 
 #### Ссылки
 >[Модель зрелости процессов LeanDS](https://www.youtube.com/watch?v=xlw8vgee5bU)
+>[Уровни зрелости ML-процессов (процессов, связанных с Машинным Обучением)](https://habr.com/ru/post/556434/)
 
 <a name="code"></a>
 ## 3. Организация кода
