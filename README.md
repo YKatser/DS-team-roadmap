@@ -6,13 +6,14 @@
 - [1. Типы команд](#types)
 - [2. Зрелость команд](#maturity)
 - [3. Организация кода](#code)
-    - [3.1 Типовая структура git репозитория](#code-git)
-    - [3.2 Git Workflow](#code-git-workflow)
-    - [3.3 Environment Managing](#code-environment)
-    - [3.4 Pep8](#code-pep8)
-    - [3.5 Code review](#code-review)
-    - [3.6 Internal reporting (automized in Python)](#code-internal-reporting)
-    - [3.7 External reporting (semi-automized)](#code-external-reporting)
+    - [3.1 git](#git)
+    - [3.2 Типовая структура git репозитория](#code-git)
+    - [3.3 Git Workflow](#code-git-workflow)
+    - [3.4 Environment Managing](#code-environment)
+    - [3.5 Pep8](#code-pep8)
+    - [3.6 Code review](#code-review)
+    - [3.7 Internal reporting (automized in Python)](#code-internal-reporting)
+    - [3.8 External reporting (semi-automized)](#code-external-reporting)
 - [4. Роли в команде](#team)
     - [4.1 Дизайн команды](#team-design)
     - [4.2 AI Product owner](#product-owner)
@@ -59,8 +60,17 @@ https://www.youtube.com/watch?v=jmjzSor1WDU
 ## 3. Организация кода
 Система организации кода и связанной с ним технической части проекта.  
 
+<a name="git"></a>
+### 3.1 git
+#### Описание
+todo
+
+#### Ссылки
+>[Git. Большой практический выпуск](https://www.youtube.com/watch?v=SEvR78OhGtw)
+>[Git и GitHub Курс Для Новичков](https://www.youtube.com/watch?v=zZBiln_2FhM)
+
 <a name="code-git"></a>
-### 3.1 Типовая структура git репозитория
+### 3.2 Типовая структура git репозитория
 #### Описание
 Структура репозитория для унификации, прозрачности работы и упрощения переключения между проектами для всех участников команды и сотрудников компании.
 
@@ -68,7 +78,7 @@ https://www.youtube.com/watch?v=jmjzSor1WDU
 >https://github.com/YKatser/ml-project-template
 
 <a name="code-git-workflow"></a>
-### 3.2 Git Workflow
+### 3.3 Git Workflow
 #### Описание
 1. Для каждого изменения в мастер или при проверке очередной гипотезы создается отдельная ветка, в которой эти изменения вносятся и гипотезы проверяются. В случае успеха отправляется pull request для дальнейшего рассмотрения и возможного мерджа с мастером.
 2. Code review и hypothesis check review проводятся на этапе отправки pull request, и при успешном review ветка мерджится с мастером.
@@ -84,7 +94,7 @@ https://www.youtube.com/watch?v=jmjzSor1WDU
 >[Курс MLRepa](https://ml-repa.ru/reproducibility-pipelines-automation-mlops)
 
 <a name="code-environment"></a>
-### 3.3 Environment Managing
+### 3.4 Environment Managing
 #### Описание
 Для обеспечения воспроизводимости важно использовать requirements.txt, инициализируя файл в самом начале проекта.
 Управление зависимостями помогает управлять всеми библиотеками, необходимыми для работы приложения.
@@ -95,7 +105,7 @@ https://www.youtube.com/watch?v=jmjzSor1WDU
 >[Add Virtual Environment to Jupyter Notebook/Juplab](https://janakiev.com/blog/jupyter-virtual-envs/)
 
 <a name="code-pep8"></a>
-### 3.4 Pep8
+### 3.5 Pep8
 #### Описание
 Единый стандарт написания кода для унификации стиля написания кода и упрощения чтения кода.
     
@@ -104,7 +114,7 @@ https://www.youtube.com/watch?v=jmjzSor1WDU
 >https://gist.github.com/RichardBronosky/454964087739a449da04 - pep8 cheat sheet (short)
 
 <a name="code-review"></a>
-### 3.5 Code review
+### 3.6 Code review
 #### Описание
 Проверка исходного кода на ошибки, проблемы постановки эксперимента.
 
@@ -115,7 +125,7 @@ https://www.youtube.com/watch?v=jmjzSor1WDU
 >https://youtu.be/2F6J82-Ch88
 
 <a name="code-internal-reporting"></a>
-### 3.6 Internal reporting (automized in Python)
+### 3.7 Internal reporting (automized in Python)
 #### Описание
 Заполнение документов о результатах проверки гипотез, а также внутренние отчеты (по работе моделей и тд).
 Процесс должен быть унифицирован и автоматизирован в начале или до начала очередного проекта.
@@ -124,7 +134,7 @@ https://www.youtube.com/watch?v=jmjzSor1WDU
 >[Пример отчета](https://drive.google.com/file/d/1jahPaEie6T4hBrun4HkysXqibxntjkV_/view?usp=drivesdk)
 
 <a name="code-external-reporting"></a>
-### 3.7 External reporting (semi-automized)
+### 3.8 External reporting (semi-automized)
 #### Описание
 Внешний отчеты для заказчика/клиента/контролирующих органов. Могут составляться по гостам, по форме, согласованной до начала/в процессе проекта, в свободной форме.
 
@@ -172,7 +182,7 @@ Team lead - связь между продукт менеджером/проду
 Может совмещать роли продукт менеджера, проджект менеджера.
     
 #### Ссылки
->[Team lead roadmap](https://github.com/tlbootcamp/tlroadmap) – это карта навыков и компетенций тимлидов, которую можно адаптировать для любой компании и команды:  
+>[Team lead roadmap](https://github.com/tlbootcamp/tlroadmap) – это карта навыков и компетенций тимлидов, которую можно адаптировать для любой компании и команды  
 >[Конспекты лекций о тимлидстве](https://github.com/YKatser/DS-links/blob/master/TeamLeadLectures.md)
 
 <a name="data-scientist"></a>
@@ -232,8 +242,8 @@ Team lead - связь между продукт менеджером/проду
 #### Ссылки
 >[Team Data Science Process (TDSP)](https://docs.microsoft.com/ru-ru/azure/machine-learning/team-data-science-process/lifecycle-data)  
 >[CRISP-DM](https://www.the-modeling-agency.com/crisp-dm.pdf)  
->[Lean Data Science 1.0 (SOTA)](https://www.youtube.com/watch?v=GAZ6EDjEDF0)
->[LeanDS](https://leands.ai/ru)
+>[Lean Data Science 1.0 (SOTA)](https://www.youtube.com/watch?v=GAZ6EDjEDF0)  
+>[LeanDS](https://leands.ai/ru)  
 >[QUEST framework](https://www.youtube.com/watch?v=rPisw2KNsC0)
 
 <a name="project-kanban"></a>
