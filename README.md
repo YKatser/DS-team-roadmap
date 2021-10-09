@@ -192,6 +192,10 @@ Team lead - связь между продукт менеджером/проду
 
 <img src="files/ds-process.png" alt="ds-process" width="800" height="400">
 
+#### Ссылки
+>[Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
+>[Baselines: The First Rule of Machine Learning - Start without Machine Learning](https://eugeneyan.com/writing/first-rule-of-ml/)
+
 <a name="developer"></a>
 ### 4.6 Developer
     todo
