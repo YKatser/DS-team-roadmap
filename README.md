@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=jmjzSor1WDU
 <img src="files/DS-maturity.png" alt="maturity" width="600" height="300">
 
 #### Ссылки
->[Модель зрелости процессов LeanDS](https://www.youtube.com/watch?v=xlw8vgee5bU)
+>[Модель зрелости процессов LeanDS](https://www.youtube.com/watch?v=xlw8vgee5bU)  
 >[Уровни зрелости ML-процессов (процессов, связанных с Машинным Обучением)](https://habr.com/ru/post/556434/)
 
 <a name="code"></a>
@@ -193,7 +193,7 @@ Team lead - связь между продукт менеджером/проду
 <img src="files/ds-process.png" alt="ds-process" width="800" height="400">
 
 #### Ссылки
->[Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
+>[Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)  
 >[Baselines: The First Rule of Machine Learning - Start without Machine Learning](https://eugeneyan.com/writing/first-rule-of-ml/)
 
 <a name="developer"></a>
@@ -208,7 +208,7 @@ Team lead - связь между продукт менеджером/проду
 ### 5.1 Проработка проекта в начале
 - AI canvas
 >[Как мы используем AI Канвас в БигДате МТС, Мария Ракитина, менеджер продуктов МТС](https://www.youtube.com/watch?v=frtCsg8tPp4)  
->[The Ultimate AI Canvas](https://www.youtube.com/watch?v=hTR66u0i1Qo). 
+>[The Ultimate AI Canvas](https://www.youtube.com/watch?v=hTR66u0i1Qo)  
 >[MISSION Canvas by DataMonsters](https://medium.com/product-ai/mission-canvas-never-start-a-research-project-without-a-shared-mission-understanding-83653492b34)
 
 <img src="files/ai canvas.png" alt="ai canvas" width="600" height="300">
@@ -247,8 +247,8 @@ Team lead - связь между продукт менеджером/проду
 #### Ссылки
 >[Team Data Science Process (TDSP)](https://docs.microsoft.com/ru-ru/azure/machine-learning/team-data-science-process/lifecycle-data)  
 >[CRISP-DM](https://www.the-modeling-agency.com/crisp-dm.pdf)  
->[Lean Data Science 1.0 (SOTA)](https://www.youtube.com/watch?v=GAZ6EDjEDF0)  
->[LeanDS](https://leands.ai/ru)  
+>[Lean Data Science 1.0 (SOTA)](https://www.youtube.com/watch?v=GAZ6EDjEDF0) | [LeanDS book](https://leands.ai/ru)  
+>[The Data Science Lifecycle by Dominodatalab](https://www.dominodatalab.com/resources/managing-data-science/)
 >[QUEST framework](https://www.youtube.com/watch?v=rPisw2KNsC0)
 
 <a name="project-kanban"></a>
