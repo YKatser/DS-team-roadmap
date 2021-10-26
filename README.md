@@ -66,7 +66,7 @@ https://www.youtube.com/watch?v=jmjzSor1WDU
 todo
 
 #### Ссылки
->[Git. Большой практический выпуск](https://www.youtube.com/watch?v=SEvR78OhGtw)
+>[Git. Большой практический выпуск](https://www.youtube.com/watch?v=SEvR78OhGtw)  
 >[Git и GitHub Курс Для Новичков](https://www.youtube.com/watch?v=zZBiln_2FhM)
 
 <a name="code-git"></a>
@@ -248,7 +248,7 @@ Team lead - связь между продукт менеджером/проду
 >[Team Data Science Process (TDSP)](https://docs.microsoft.com/ru-ru/azure/machine-learning/team-data-science-process/lifecycle-data)  
 >[CRISP-DM](https://www.the-modeling-agency.com/crisp-dm.pdf)  
 >[Lean Data Science 1.0 (SOTA)](https://www.youtube.com/watch?v=GAZ6EDjEDF0) | [LeanDS book](https://leands.ai/ru)  
->[The Data Science Lifecycle by Dominodatalab](https://www.dominodatalab.com/resources/managing-data-science/)
+>[The Data Science Lifecycle by Dominodatalab](https://www.dominodatalab.com/resources/managing-data-science/)  
 >[QUEST framework](https://www.youtube.com/watch?v=rPisw2KNsC0)
 
 <a name="project-kanban"></a>
