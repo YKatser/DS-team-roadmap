@@ -34,6 +34,10 @@
 https://www.youtube.com/watch?v=jmjzSor1WDU
 >Как организовать DS в компании, какие варианты построения команд есть, как фокусировать команду на самом важном, проверять гипотезы и как оценивать их эффективность для бизнеса.
 
+#### Data Product Management
+https://towardsdatascience.com/data-product-management-ffa582f7e047
+>The missing link to create value from AI
+
 <a name="types"></a>
 ## 1. Типы команд
 <img src="files/teams.png" alt="teams" width="600" height="300">
@@ -218,7 +222,8 @@ Team lead - связь между продукт менеджером/проду
 <img src="files/check list.png" alt="check list" width="600" height="300">
 
 - User story map
->[Story mapping. Как спроектировать продукт с AI-состовляющей](https://youtu.be/GAZ6EDjEDF0?t=872)
+>[Story mapping. Как спроектировать продукт с AI-состовляющей](https://youtu.be/GAZ6EDjEDF0?t=872)  
+>[User Story Mapping – инструкция по применению by scrumtrek](https://scrumtrek.ru/blog/product-management/3498/user-story-mapping-guide/)
 
 - Dataset Card (Паспорт датасета, карточка с различной информацией о датасете)
     - Объем данных, баланс классов, Примеры данных, источник данных и лицензия, тип разметки, иные особенности
