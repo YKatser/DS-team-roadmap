@@ -252,7 +252,7 @@ Team lead - связь между продукт менеджером/проду
 #### Ссылки
 >[Team Data Science Process (TDSP)](https://docs.microsoft.com/ru-ru/azure/machine-learning/team-data-science-process/lifecycle-data)  
 >[CRISP-DM](https://www.the-modeling-agency.com/crisp-dm.pdf)  
->[Lean Data Science 1.0 (SOTA)](https://www.youtube.com/watch?v=GAZ6EDjEDF0) | [LeanDS book](https://leands.ai/ru)  
+>[Lean Data Science 1.0 (SOTA)](https://www.youtube.com/watch?v=GAZ6EDjEDF0) | [LeanDS book](https://leands.ai/ru) | [Mini-course]( https://leands-video-course.thinkific.com/users/sign_in#)  
 >[The Data Science Lifecycle by Dominodatalab](https://www.dominodatalab.com/resources/managing-data-science/)  
 >[QUEST framework](https://www.youtube.com/watch?v=rPisw2KNsC0)
 
