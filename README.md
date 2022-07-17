@@ -34,6 +34,10 @@
 https://www.youtube.com/watch?v=jmjzSor1WDU
 >Как организовать DS в компании, какие варианты построения команд есть, как фокусировать команду на самом важном, проверять гипотезы и как оценивать их эффективность для бизнеса.
 
+#### Процессы для самоорганизующейся DS команды: встречи, доски и best practices
+https://www.youtube.com/watch?v=qW8JlpNIyDQ
+>LeanDS — это процессы для исследовательской команды. Мы начали с них и выстроили процесс для большой команды, добывающей себе данные в пилотах, исследующей не только дата-сайнс, но и клиентские кейсы и бизнес-задачи.
+
 #### Data Product Management
 https://towardsdatascience.com/data-product-management-ffa582f7e047
 >The missing link to create value from AI
