@@ -4,7 +4,9 @@
 
 ## Table of Contents
 - [1. Типы команд](#types)
-- [2. Зрелость команд](#maturity)
+- [2. Зрелость команд и развитие навыков](#maturity)
+    - [2.1 Зрелость команд](#team-maturity)
+    - [2.2 Матрица компетенций](#matrix)
 - [3. Организация кода](#code)
     - [3.1 git](#git)
     - [3.2 Типовая структура git репозитория](#code-git)
@@ -51,7 +53,11 @@ https://towardsdatascience.com/data-product-management-ffa582f7e047
 - Support
 
 <a name="maturity"></a>
-## 2. Зрелость команд
+## 2. Зрелость команд и развитие навыков
+
+<a name="team-maturity"></a>
+### 2.1 Зрелость команд
+
 4 уровня зрелости:
 - Oblivious
 - Emerging 
@@ -63,6 +69,14 @@ https://towardsdatascience.com/data-product-management-ffa582f7e047
 #### Ссылки
 >[Модель зрелости процессов LeanDS](https://www.youtube.com/watch?v=xlw8vgee5bU)  
 >[Уровни зрелости ML-процессов (процессов, связанных с Машинным Обучением)](https://habr.com/ru/post/556434/)
+
+<a name="matrix"></a>
+### 2.2 Матрица компетенций
+Это таблица с ролями и навыками, важными для командной цели
+
+#### Ссылки
+>[Матрица компетенций как инструмент тимлида / Светлана Новикова и Константин Кафтан (Iponweb)](https://www.youtube.com/watch?v=ITCUNTovW3M)  
+>[Матрица компетенций: важный инструмент для мотивации команды](https://habr.com/ru/company/agima/blog/659387/)
 
 <a name="code"></a>
 ## 3. Организация кода
